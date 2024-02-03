@@ -1,2 +1,2 @@
 # Portfolio
-Personal Frontend Development Portfolio
+Personal Front-end Development Portfolio
